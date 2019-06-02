@@ -16,6 +16,7 @@ Plugin 'rust-lang/rust.vim'
 Plugin 'majutsushi/tagbar'
 Plugin 'ctrlpvim/ctrlp.vim'
 Plugin 'easymotion/vim-easymotion'
+Plugin 'vim-syntastic/syntastic'
 
 " ===================
 " end of plugins

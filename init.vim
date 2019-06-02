@@ -4,6 +4,7 @@ source $HOME/.config/nvim/vundle.vim
 " space leader
 let mapleader=" "
 
+source $HOME/.config/nvim/syntastic.vim
 source $HOME/.config/nvim/rustlang.vim
 source $HOME/.config/nvim/golang.vim
 source $HOME/.config/nvim/netrw.vim
