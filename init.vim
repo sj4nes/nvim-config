@@ -1,4 +1,4 @@
-source $HOME/.config/nvim/vundle.vim
+source $HOME/.config/nvim/Vundle.vim
 let mapleader=" "
 " nnoremap ; :
 source $HOME/.config/nvim/rustlang.vim
