@@ -1,3 +1,3 @@
-nmap <silent> <leader>vs :Gstatus<CR>
-nmap <silent> <leader>vd :Gdiff<CR>
+nmap <silent> <leader>fs :Gstatus<CR>
+nmap <silent> <leader>fd :Gdiff<CR>
 
