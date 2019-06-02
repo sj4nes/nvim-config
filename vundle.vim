@@ -17,6 +17,7 @@ Plugin 'majutsushi/tagbar'
 Plugin 'ctrlpvim/ctrlp.vim'
 Plugin 'easymotion/vim-easymotion'
 Plugin 'vim-syntastic/syntastic'
+Plugin 'tpope/vim-fugitive'
 
 " ===================
 " end of plugins
