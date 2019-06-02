@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/sjanes/go-src/src/github.ibm.com/kms/key-protect/smoke_tests/bumper/keyprotect'
+let g:netrw_dirhist_2='/Users/sjanes/go-src/src/github.ibm.com/kms/key-protect/smoke_tests/bumper/keyprotect/openapi'
+let g:netrw_dirhist_3='/Users/sjanes/go-src/src/github.ibm.com/kms/key-protect'
+let g:netrw_dirhist_4='/Users/sjanes/go-src/src/github.ibm.com/kms/key-protect/smoke_tests'
+let g:netrw_dirhist_5='/Users/sjanes/go-src/src/github.ibm.com/kms/key-protect/smoke_tests/bumper'
+let g:netrw_dirhist_6='/Users/sjanes/go-src/src/github.ibm.com/kms/key-protect/smoke_tests/bumper/keyprotect'
+let g:netrw_dirhist_7='/Users/sjanes/go-src/src/github.ibm.com/kms/key-protect/smoke_tests/bumper/keyprotect/openapi'
