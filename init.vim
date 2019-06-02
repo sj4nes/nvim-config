@@ -1,15 +1,21 @@
-source $HOME/.config/nvim/Vundle.vim
+runtime! debian.vim
+source $HOME/.config/nvim/vundle.vim
+
+" space leader
 let mapleader=" "
-" nnoremap ; :
+
 source $HOME/.config/nvim/rustlang.vim
 source $HOME/.config/nvim/golang.vim
 source $HOME/.config/nvim/netrw.vim
+
 " Easy window navigation
 map <C-h> <C-w>h
 map <C-j> <C-w>j
 map <C-k> <C-w>k
 map <C-l> <C-w>l
+
 nmap <silent> <leader>q :q<CR>
+
 set history=1000         " remember more commands and search history
 set undolevels=1000      " use many muchos levels of undo
 set wildignore=*.swp,*.bak,*.pyc,*.class
