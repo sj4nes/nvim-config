@@ -57,5 +57,5 @@ cmap w!! w !sudo tee % >/dev/null
 let g:ctrlp_map = '<c-p>'
 let g:ctrlp_cmd = 'CtrlPMixed'
 
-" ripgrep instead of grep
-set grepprg=rg\ --vimgrep\ --no-heading\ --smart-case
+" RipGrep
+nmap <Leader>/ :Rg<Space>
