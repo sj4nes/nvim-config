@@ -1,8 +1,8 @@
 nmap <silent> <leader>fs :Gstatus<CR>
 nmap <silent> <leader>fd :Gdiff<CR>
 nmap <silent> <leader>fc :Gcommit %<CR>
-nmap <leader>fp :Gpush<CR>
-nmap <silent> <leader>fp :Gfetch %<CR>
+nmap <silent> <leader>fp :Gpush<CR>
+nmap <silent> <leader>fr :Gfetch<CR> " ff was find-files
 nmap <silent> <leader>fg :Ggrep %
 
 
