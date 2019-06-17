@@ -19,6 +19,7 @@ Plugin 'easymotion/vim-easymotion'
 Plugin 'vim-syntastic/syntastic'
 Plugin 'tpope/vim-fugitive'
 Plugin 'jremmen/vim-ripgrep'
+Plugin 'pedrohdz/vim-yaml-folds'
 
 " ===================
 " end of plugins
