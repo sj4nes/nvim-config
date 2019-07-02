@@ -20,6 +20,7 @@ Plugin 'vim-syntastic/syntastic'
 Plugin 'tpope/vim-fugitive'
 Plugin 'jremmen/vim-ripgrep'
 Plugin 'pedrohdz/vim-yaml-folds'
+Plugin 'tpope/vim-vinegar'
 
 " ===================
 " end of plugins
