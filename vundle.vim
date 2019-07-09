@@ -21,7 +21,7 @@ Plugin 'tpope/vim-fugitive'
 Plugin 'jremmen/vim-ripgrep'
 Plugin 'pedrohdz/vim-yaml-folds'
 Plugin 'tpope/vim-vinegar'
-
+Plugin 'ron-rs/ron.vim'
 " ===================
 " end of plugins
 " ===================

@@ -62,3 +62,6 @@ nmap <Leader>/ :Rg<Space>
 
 " Line lengths
 set colorcolumn=80
+
+" Color scheme
+colorscheme industry
