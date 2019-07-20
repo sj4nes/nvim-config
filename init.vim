@@ -65,3 +65,6 @@ nmap <Leader>m :make<CR>
 
 " Line lengths
 set colorcolumn=80
+
+" Color scheme
+colorscheme industry
