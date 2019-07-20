@@ -60,5 +60,8 @@ let g:ctrlp_cmd = 'CtrlPMixed'
 " RipGrep
 nmap <Leader>/ :Rg<Space>
 
+" Make
+nmap <Leader>m :make<CR>
+
 " Line lengths
 set colorcolumn=80
