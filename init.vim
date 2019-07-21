@@ -67,4 +67,4 @@ nmap <Leader>m :make<CR>
 set colorcolumn=80
 
 " Color scheme
-colorscheme industry
+colorscheme 256_noir
