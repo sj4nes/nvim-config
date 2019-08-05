@@ -68,3 +68,6 @@ set colorcolumn=80
 
 " Color scheme
 colorscheme 256_noir
+
+" new-tab
+nmap <leader>nt :tabnew<CR>
