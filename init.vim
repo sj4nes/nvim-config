@@ -73,3 +73,6 @@ colorscheme 256_noir
 
 " new-tab
 nmap <leader>nt :tabnew<CR>
+
+" Cucumber setting
+au FileType cucumber setl sw=2 sts=2 et
