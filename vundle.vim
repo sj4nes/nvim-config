@@ -24,6 +24,8 @@ Plugin 'tpope/vim-vinegar'
 Plugin 'ron-rs/ron.vim'
 Plugin 'andreasvc/vim-256noir'
 Plugin 'tpope/vim-obsession'
+Plugin 'hashicorp/vim-terraform'
+Plugin 'juliosueiras/vim-terraform-completion'
 
 " ===================
 " end of plugins

@@ -9,6 +9,8 @@ source $HOME/.config/nvim/rustlang.vim
 source $HOME/.config/nvim/golang.vim
 source $HOME/.config/nvim/netrw.vim
 source $HOME/.config/nvim/fugitive.vim
+source $HOME/.config/nvim/ocaml.vim
+source $HOME/.config/nvim/terraform.vim
 
 " Easy window navigation
 map <C-h> <C-w>h
