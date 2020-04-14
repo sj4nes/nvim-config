@@ -7,3 +7,5 @@ nmap <silent> <leader>gf :GoFmt<CR>
 nmap <silent> <leader>gy :GoDef<CR>
 nmap <silent> <leader>gY :GoDescribe<CR>
 nmap <silent> <leader>gd :GoDoc<CR>
+let g:go_def_mode = 'godef'
+
