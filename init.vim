@@ -69,10 +69,22 @@ nmap <Leader>m :make<CR>
 set colorcolumn=80
 
 " Color scheme
-colorscheme 256_noir
+" colorscheme anderson
 
 " new-tab
 nmap <leader>nt :tabnew<CR>
 
+" new-split
+nmap <leader>nh :split<CR>
+
+" Lexplore
+nmap <leader>L :Lexplore<CR>
+
+
 " Cucumber setting
 au FileType cucumber setl sw=2 sts=2 et
+
+nmap <C-N><C-N> :set invnumber<CR>:set invrelativenumber<CR>
+
+" vimwiki
+let g:vimwiki_list = [{'path': '~/vimwiki/', 'syntax': 'markdown', 'ext': '.md', 'list_margin': 0, }]

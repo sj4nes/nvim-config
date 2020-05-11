@@ -23,9 +23,11 @@ Plugin 'pedrohdz/vim-yaml-folds'
 Plugin 'tpope/vim-vinegar'
 Plugin 'ron-rs/ron.vim'
 Plugin 'andreasvc/vim-256noir'
+Plugin 'tlhr/anderson.vim'
 Plugin 'tpope/vim-obsession'
 Plugin 'hashivim/vim-terraform'
 Plugin 'juliosueiras/vim-terraform-completion'
+Plugin 'vimwiki/vimwiki'
 
 " ===================
 " end of plugins
