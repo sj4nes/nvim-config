@@ -21,7 +21,7 @@ set tabstop=4     " a tab is four spaces
 set backspace=indent,eol,start
                     " allow backspacing over everything in insert mode
 set autoindent      " always set autoindenting on
-set autoload        " load files when they change outside nvim
+set autoread        " load files when they change outside nvim
 set copyindent      " copy the previous indentation on autoindenting
 " set number        " always show line numbers
 set shiftwidth=4  " number of spaces to use for autoindenting
@@ -62,7 +62,7 @@ nmap <Leader>m :make<CR>
 set colorcolumn=80
 
 " Color scheme
-" colorscheme anderson
+colorscheme anderson
 
 " new-tab
 nmap <leader>nt :tabnew<CR>
