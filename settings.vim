@@ -21,7 +21,10 @@ set tabstop=4     " a tab is four spaces
 set backspace=indent,eol,start
                     " allow backspacing over everything in insert mode
 set autoindent      " always set autoindenting on
+
 set autoread        " load files when they change outside nvim
+au FocusGained,BufEnter * :silent! !au FocusGained,BufEnter * :silent! !
+
 set copyindent      " copy the previous indentation on autoindenting
 " set number        " always show line numbers
 set shiftwidth=4  " number of spaces to use for autoindenting
