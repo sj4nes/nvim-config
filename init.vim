@@ -26,6 +26,7 @@ Plug 'juliosueiras/vim-terraform-completion'
 Plug 'vimwiki/vimwiki'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'justinmk/vim-sneak'
+Plug 'vim-airline/vim-airline'
 call plug#end()
 source ~/.config/nvim/settings.vim
 source ~/.config/nvim/settings-coc.vim
