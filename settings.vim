@@ -38,6 +38,7 @@ set smarttab      " insert tabs on the start of a line according to
 set hlsearch      " highlight search terms
 set incsearch     " show search matches as you type
 set hidden        " hide buffers instead of closing
+set expandtab     " don't mix tabs and spaces, it makes YAML insane.
 
 " quick-write now leader-e since vimwiki has taken leader-ww
 nmap <silent> <leader>e :w<CR>
