@@ -84,3 +84,6 @@ nmap <C-N><C-N> :set invnumber<CR>
 
 " vimwiki
 let g:vimwiki_list = [{'path': '~/vimwiki/', 'syntax': 'markdown', 'ext': '.md', 'list_margin': 0, }]
+
+" tell shellcheck to look for include files in the users current directory
+let g:syntastic_sh_shellcheck_args="--external-sources --source-path=."
