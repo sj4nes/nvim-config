@@ -38,6 +38,7 @@ set smarttab      " insert tabs on the start of a line according to
 set hlsearch      " highlight search terms
 set incsearch     " show search matches as you type
 set hidden        " hide buffers instead of closing
+set expandtab     " don't mix tabs and spaces, it makes YAML insane.
 
 " quick-write now leader-e since vimwiki has taken leader-ww
 nmap <silent> <leader>e :w<CR>
@@ -84,3 +85,6 @@ nmap <C-N><C-N> :set invnumber<CR>
 
 " vimwiki
 let g:vimwiki_list = [{'path': '~/vimwiki/', 'syntax': 'markdown', 'ext': '.md', 'list_margin': 0, }]
+
+" tell shellcheck to look for include files in the users current directory
+let g:syntastic_sh_shellcheck_args="--external-sources --source-path=."
