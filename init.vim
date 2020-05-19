@@ -33,3 +33,4 @@ call plug#end()
 source ~/.config/nvim/settings.vim
 source ~/.config/nvim/settings-coc.vim
 source ~/.config/nvim/settings-fugitive.vim
+source ~/.config/nvim/settings-vimwiki.vim
