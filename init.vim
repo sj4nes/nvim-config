@@ -28,6 +28,7 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'justinmk/vim-sneak'
 Plug 'vim-airline/vim-airline'
 Plug 'habamax/vim-asciidoctor'
+Plug 'jordwalke/vim-reasonml'
 
 call plug#end()
 source ~/.config/nvim/settings.vim
