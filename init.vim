@@ -31,6 +31,7 @@ Plug 'habamax/vim-asciidoctor'
 " Plug 'jordwalke/vim-reasonml'
 Plug 'reasonml-editor/vim-reason-plus'
 Plug 'gorodinskiy/vim-coloresque'
+Plug 'davidhalter/jedi-vim'
 
 call plug#end()
 source ~/.config/nvim/settings.vim
