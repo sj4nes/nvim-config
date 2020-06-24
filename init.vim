@@ -10,7 +10,7 @@ Plug 'junegunn/limelight.vim'
 Plug 'fatih/vim-go'
 Plug 'rust-lang/rust.vim'
 Plug 'majutsushi/tagbar'
-Plug 'ctrlpvim/ctrlp.vim'
+" Plug 'ctrlpvim/ctrlp.vim'
 Plug 'easymotion/vim-easymotion'
 Plug 'vim-syntastic/syntastic'
 Plug 'tpope/vim-fugitive'
@@ -32,6 +32,9 @@ Plug 'habamax/vim-asciidoctor'
 Plug 'reasonml-editor/vim-reason-plus'
 Plug 'gorodinskiy/vim-coloresque'
 Plug 'davidhalter/jedi-vim'
+Plug 'lotabout/skim', { 'dir': '~/.skim', 'do': './install' }
+Plug 'lotabout/skim.vim'
+
 
 call plug#end()
 source ~/.config/nvim/settings.vim
