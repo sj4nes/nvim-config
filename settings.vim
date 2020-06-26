@@ -52,12 +52,11 @@ nmap <silent> ,/ :nohlsearch<CR>
 " sudo write
 cmap w!! w !sudo tee % >/dev/null
 
-" ctrlp
-let g:ctrlp_map = '<c-p>'
-let g:ctrlp_cmd = 'CtrlPMixed'
 
 " RipGrep
 nmap <Leader>/ :Rg<Space>
+" Skim
+nmap <Leader>\ :SK<CR>
 
 " Make
 nmap <Leader>m :make<CR>
