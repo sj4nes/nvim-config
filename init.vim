@@ -19,7 +19,6 @@ Plug 'pedrohdz/vim-yaml-folds'
 Plug 'tpope/vim-vinegar'
 Plug 'ron-rs/ron.vim'
 Plug 'andreasvc/vim-256noir'
-Plug 'tlhr/anderson.vim'
 Plug 'tpope/vim-obsession'
 Plug 'hashivim/vim-terraform'
 Plug 'juliosueiras/vim-terraform-completion'
@@ -34,6 +33,7 @@ Plug 'gorodinskiy/vim-coloresque'
 Plug 'davidhalter/jedi-vim'
 Plug 'lotabout/skim', { 'dir': '~/.skim', 'do': './install' }
 Plug 'lotabout/skim.vim'
+Plug 'cocopon/iceberg.vim'
 
 
 call plug#end()

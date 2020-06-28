@@ -65,7 +65,7 @@ nmap <Leader>m :make<CR>
 set colorcolumn=80
 
 " Color scheme
-colorscheme anderson
+colorscheme iceberg
 
 " new-tab
 nmap <leader>nt :tabnew<CR>
