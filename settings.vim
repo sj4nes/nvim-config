@@ -23,6 +23,7 @@ set backspace=indent,eol,start
 set autoindent      " always set autoindenting on
 
 set autoread        " load files when they change outside nvim
+au CursorHold * checktime
 au FocusGained,BufEnter * :silent! !au FocusGained,BufEnter * :silent! !
 
 set copyindent      " copy the previous indentation on autoindenting
