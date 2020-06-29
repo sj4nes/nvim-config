@@ -40,8 +40,7 @@ set incsearch     " show search matches as you type
 set hidden        " hide buffers instead of closing
 set expandtab     " don't mix tabs and spaces, it makes YAML insane.
 
-" quick-write now leader-e since vimwiki has taken leader-ww
-nmap <silent> <leader>e :w<CR>
+nmap <silent> <leader>w :w<CR>
 
 " tagbar
 nmap <leader>t :TagbarToggle<CR><C-l>

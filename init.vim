@@ -22,7 +22,7 @@ Plug 'andreasvc/vim-256noir'
 Plug 'tpope/vim-obsession'
 Plug 'hashivim/vim-terraform'
 Plug 'juliosueiras/vim-terraform-completion'
-Plug 'vimwiki/vimwiki'
+" Plug 'vimwiki/vimwiki'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'justinmk/vim-sneak'
 Plug 'vim-airline/vim-airline'
