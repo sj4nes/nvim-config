@@ -30,7 +30,7 @@ Plug 'habamax/vim-asciidoctor'
 " Plug 'jordwalke/vim-reasonml'
 Plug 'reasonml-editor/vim-reason-plus'
 Plug 'gorodinskiy/vim-coloresque'
-# Plug 'davidhalter/jedi-vim'
+" Plug 'davidhalter/jedi-vim'
 Plug 'lotabout/skim', { 'dir': '~/.skim', 'do': './install' }
 Plug 'lotabout/skim.vim'
 Plug 'cocopon/iceberg.vim'
